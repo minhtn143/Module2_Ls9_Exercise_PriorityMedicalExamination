@@ -1,7 +1,6 @@
 <?php
 include_once "Patient.php";
 include_once "Queue.php";
-include_once "Element.php";
 
 $patientQueue = new Queue();
 //hiển thị danh sách khám
